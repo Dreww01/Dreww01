@@ -47,15 +47,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-217346?logo=microsoft-excel&logoColor=white) --->
 
 
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Spreadsheets-217346?logo=microsoft-excel&logoColor=white" alt="Spreadsheets" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Spreadsheets" />
 </p>
 
 ---
