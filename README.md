@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-217346?logo=microsoft-excel&logoColor=white) --->
 
-
-<!--- ## 🛠️ Tech Stack
+---
+ ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,18 +55,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Spreadsheets" />
 </p>
---->
-
-
----
-
-## 🛠️ Tech Stack
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
-- ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) **Rust**
-- ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) **Solidity**
-- ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-217346?logo=microsoft-excel&logoColor=white) **Spreadsheets**
-
 ---
 
 ## 📫 Let's Connect!
