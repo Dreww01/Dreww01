@@ -20,9 +20,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🎯 Goals
 - Master advanced Python frameworks and libraries.
-- Deepen my understanding of JavaScript and modern web development.
+- Master advanced Solidity, its frameworks and libraries.; then become a blockchain developer.
+- Expand my expertise in blockchain tools and development.
+- Deepen my understanding of JavaScript and itd modern application.
 - Contribute to open-source projects and collaborate with like-minded developers.
-- Expand my expertise in data analysis and automation using spreadsheets.
+
 
 <!---## 🛠️ Tech Stack
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
