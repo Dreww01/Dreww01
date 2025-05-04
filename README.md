@@ -60,9 +60,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 
 ## 📫 Let's Connect!
----
-
-## 📫 Let's Connect!
 <p align="center">
   <!-- <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
   <a href="https://twitter.com/DevDrewww"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -71,4 +68,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 Feel free to explore my repositories and reach out for collaboration opportunities. Let's build something amazing together! 🚀
 
-Feel free to explore my repositories and reach out for collaboration opportunities. Let's build something amazing together! 🚀
