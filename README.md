@@ -31,12 +31,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**
 - ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-217346?logo=microsoft-excel&logoColor=white) **Spreadsheets**
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) **CSS**
+- ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) **Rust**
 
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://your-portfolio.com)
+<!--- [LinkedIn](https://www.linkedin.com/in/your-profile) -->
+- [Twitter](https://twitter.com/DevDrewww)
+- [Portfolio](https://github.com/Dreww01)
 
 Feel free to explore my repositories and reach out for collaboration opportunities. Let's build something amazing together! 🚀
