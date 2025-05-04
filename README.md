@@ -54,6 +54,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
  <!--- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> --->
   <img src="https://img.shields.io/badge/-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Spreadsheets" />
+ <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
 
